@@ -4,7 +4,7 @@
 ## 
 
 ```bash
-git clone 
+git clone https://github.com/AsaoluElijah/summarize-bot
 npm install
 
 # start bot
